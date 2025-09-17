@@ -1,1 +1,2 @@
-Currently, I'm practicing version control using Git
+Currently, I'm practicing version control using Git.
+Update: I've understood the concept of version control

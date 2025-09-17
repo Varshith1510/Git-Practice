@@ -1,1 +1,1 @@
-This is my first attempt in understanding Git.
+This is my first attempt in understanding Git. Now, I'm trying to learn about branching
